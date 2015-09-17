@@ -1,0 +1,15 @@
+C:\Users\TP1508010\Program\TestWPF\TestWPF\bin\Debug\TestWPF.exe
+C:\Users\TP1508010\Program\TestWPF\TestWPF\bin\Debug\TestWPF.pdb
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\MainWindow.baml
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\App.g.cs
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF_MarkupCompile.cache
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.g.resources
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.Properties.Resources.resources
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.csproj.GenerateResource.Cache
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.exe
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.pdb
+C:\Users\TP1508010\Program\TestWPF\TestWPF\bin\Debug\TestWPF.exe.manifest
+C:\Users\TP1508010\Program\TestWPF\TestWPF\bin\Debug\TestWPF.application
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.exe.manifest
+C:\Users\TP1508010\Program\TestWPF\TestWPF\obj\x86\Debug\TestWPF.application
